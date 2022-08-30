@@ -1,3 +1,5 @@
+#CSV files are too large to host at github
+*.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
